@@ -17,8 +17,7 @@ Bu proje, kitapların yönetimi için geliştirilmiş bir Windows Forms uygulama
 ![image](https://github.com/user-attachments/assets/26ec1658-74d0-4cfe-8015-d0b625ff1a14)
 
 ## 📂 Proje Nasıl Çalıştırılır ?
-### 1. 
-SQL Server üzerinde bir veritabanı oluşturun ve tabloları hazırlayın. <br/>   
+1. SQL Server üzerinde bir veritabanı oluşturun ve tabloları hazırlayın. <br/>   
 2. app.config dosyasındaki bağlantı dizesini kendi veritabanınıza göre güncelleyin. 
 3. Projeyi derleyip çalıştırın.
 
