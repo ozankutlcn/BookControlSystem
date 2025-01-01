@@ -8,8 +8,8 @@ Bu proje, kitapların yönetimi için geliştirilmiş bir Windows Forms uygulama
 • 🗄️ SQL Server <br/> 
 
 ## 🛠️ Uygulamanın Özellikleri <br/> 
-• Kitap ekleme, silme, güncelleme ve listeleme <br/> 
-• Toplam kitap sayısı, en pahalı kitap ve kategori sayısını gösteren istatistikler
+• Kitap ekleme, silme, güncelleme ve listeleme
+• Toplam kitap sayısı, en pahalı kitap ve kategori sayısını gösteren istatistikler <br/> 
 • Şık ve kullanıcı dostu arayüz <br/> 
 
 ## 📷 Ekran Görüntüsü 
